@@ -1,0 +1,5 @@
+# 1.25 for MCPSpecificApproval and the Message-based approval round trip.
+agent-framework>=1.25
+python-dotenv>=1.2.2
+mcp>=2.3,<3
+psycopg[binary]>=3.3
